@@ -12,15 +12,7 @@ question 4-https://onlinegdb.com/Si2trRNDmb
 
 question 5-https://onlinegdb.com/FU_DXT-9x  
 
-# C++ Object-Oriented Programming (OOP) Practical Programs
-
-## Student Details
-
-**Name:** ____________________
-**Roll No.:** ____________________
-**Class:** ____________________
-**Subject:** Object-Oriented Programming Using C++
-
+# C++ Object-Oriented Programming (OOP) Practical Programs 
 ---
 
 # Aim
