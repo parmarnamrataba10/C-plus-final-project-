@@ -1,7 +1,8 @@
 
 question :- <img width="1325" height="568" alt="Screenshot 2026-07-06 132145" src="https://github.com/user-attachments/assets/f213f4fd-956d-4052-8ee2-b7c36fea3a2e" />
 
-video :https://drive.google.com/drive/folders/1AdlQ7Z87k3Gbo2z-E9cUuqhhwTuiFlUC
+video : https://drive.google.com/file/d/1A9-6erE8OHH_NgrtgPsnBiVg6cKgbL61/view?usp=drive_link
+
 
 question 1-https://onlinegdb.com/Pjo4vHBWU
 
